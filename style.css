@@ -1,0 +1,43 @@
+body{
+    background-image: url(./IMG-20250127-WA0017.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% ;
+    background-attachment: fixed;
+    width: 100%;
+    /* height: 990vh; */
+
+}
+fieldset{
+    color: blanchedalmond;
+    border-color: aqua;
+}
+legend{
+    color: brown;
+}
+.sth{
+    color: rgb(127, 1, 255);
+}
+.sect{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+.cpr{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    /* border: none; */
+}
+/* img{
+    background-attachment: fixed;
+    width: 100%;
+    height: 660px;
+} */
+
+/* @media screen {
+    
+} */
+
+/* .hero{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    color: blue;
+} */
